@@ -979,7 +979,7 @@ var bdb = {
   },
   "bdb-ameya": {
     name: "Ameya Aneja (she/her)",
-    photo: "",
+    photo: defaultPhoto,
     meta: "Senior",
     bio: 'Ameya is majoring in Economics with a Computer Science minor. <br><br><b>Fun Fact:</b> She chooses cafés based on their dessert menu! <br><br><center><a href="mailto:ameya.aneja@duke.edu" target="_blank">Contact Ameya</a></center>'
   }
