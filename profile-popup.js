@@ -1,6 +1,3 @@
-// DSG profile popup — opens Elementor popup 4227 and fills it from `profiles`
-// (defined in profiledata.js). Load profiledata.js and this file on any page
-// with profile cards; the order between them does not matter.
 (function () {
   var POPUP_ID = 4227;
   var SELECTOR = [
