@@ -1,7 +1,3 @@
-// DSG profile data — loaded on dukestudentgovernment.org by <script src>.
-// Edit this file and push to GitHub; the site picks up the change automatically.
-
-
 var defaultPhoto = "https://dukestudentgovernment.org/wp-content/uploads/2026/05/session-logo-1.png";
 
 var defaultBio = "Stay tuned for this member's biography!";
