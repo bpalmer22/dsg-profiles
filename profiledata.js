@@ -429,7 +429,7 @@ var senators = {
   },
   "senator-alex-den": {
     name: "Alex Den",
-    photo: defaultPhoto,
+    photo: "https://dukestudentgovernment.org/wp-content/uploads/2026/11/headshot-alex-den.jpeg",
     meta: "Sophomore",
     bio: "Alex is a sophomore from Denver, Colorado planning to major in Neuroscience with a minor in Chemistry and a certificate in Health Policy. Having previously served in DSG, he is excited to continue supporting the Duke community. This year, he hopes to increase awareness of DSG resources and opportunities among students and contribute to projects that improve the overall student experience at Duke. Through his role, he hopes to foster a more connected, engaged, and supportive campus community."
   },
