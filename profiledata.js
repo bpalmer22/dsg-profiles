@@ -399,7 +399,7 @@ var senators = {
   },
   "senator-charlee-chandler": {
     name: "Charlee Chandler",
-    photo: defaultPhoto,
+    photo: "https://dukestudentgovernment.org/wp-content/uploads/2026/11/headshot-charlee-chandler.jpg",
     meta: "Freshman",
     bio: "Charlee is a freshman from Rehobeth, Alabama, planning to study Biomedical Engineering and Neuroscience. This is her first year in DSG, serving on the Academic Affairs Committee. This year, she's focused on making academic resources and research opportunities easier to find and access, bringing more clarity to course registration and advising, and helping students from every background navigate what Duke has to offer. Through DSG, she hopes to help create an academic environment where every student has the support and opportunities they need to thrive."
   },
